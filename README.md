@@ -1,5 +1,5 @@
 
-# Vehicle CLI Application
+# Cars and Actions Application
 
 ## Description
 
@@ -29,7 +29,7 @@ Follow these steps to set up the application on your local machine:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd vehicle-cli-app
+   cars-and-actions-app
    ```
 3. Install the necessary dependencies:
    ```bash
