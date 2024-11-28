@@ -3,7 +3,7 @@
 
 ## Description
 
-The Vehicle CLI Application is an interactive command-line tool that allows users to create and manage different types of vehicles, including cars, trucks, and motorbikes. Users can perform various actions on these vehicles, such as starting them, accelerating, and even performing specialized actions like towing or doing a wheelie. The program leverages the Inquirer package for user-friendly interaction.
+The Cars and Actions Application is an interactive command-line tool that allows users to create and manage different types of vehicles, including cars, trucks, and motorbikes. Users can perform various actions on these vehicles, such as starting them, accelerating, and even performing specialized actions like towing or doing a wheelie. The program leverages the Inquirer package for user-friendly interaction.
 
 ---
 
